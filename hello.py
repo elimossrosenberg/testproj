@@ -1,5 +1,6 @@
 print("hello")
 print("A")
+print("B")
 print("b")
 print("goodbye")
 print("again")
