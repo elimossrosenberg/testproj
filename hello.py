@@ -1,5 +1,7 @@
 print("hello")
 print("A")
+x = [y for y in range(10)]
 print("b")
-print("goodbye")
+for i in x:
+    print("abc")
 print("again")
